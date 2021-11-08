@@ -1,5 +1,2 @@
-# rdwp801.github.io
-Ejemplo De Sitio Web
-
-La Url de este sitio es 
-https://rdwp801.github.io
+# rickfbauth
+Ejemplo de autenticación con Firebase y Google.
