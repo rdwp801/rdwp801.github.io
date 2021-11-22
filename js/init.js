@@ -5,7 +5,7 @@
  * aquí sustituyendo los
  * asteriscos. Los campos deben
  * quedar igual que en tu
- * servidor. */
+ * servidor */
 // @ts-ignore
 firebase.initializeApp({
   apiKey: "AIzaSyBYsPHpdYXy6jvmrRt-vNh5COOePT4GmGE",
